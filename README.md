@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Version flutter 3.0.2 
+
 For the clone download packages with FLUTTER PUB GET 
 
 
